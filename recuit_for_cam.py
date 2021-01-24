@@ -33,4 +33,4 @@ def repeatfunction():
             requests.post(url,{"key":apikey,"to":nation,"subject":subject,"message":message},timeout=300)
             
 
-threading.Timer(180, repeatfunction).start()
+threading.Timer(60, repeatfunction).start()

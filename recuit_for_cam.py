@@ -31,7 +31,8 @@ def repeatfunction():
         print(lastid)
         for nation in sendtoo:
             requests.post(url,{"key":apikey,"to":nation,"subject":subject,"message":message},timeout=300)
-repeatfunction()            
+          
 while True:
-    threading.Timer(60, repeatfunction).start()
+    repeatfunction()
+    time.sleep(60)
 

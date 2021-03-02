@@ -29,7 +29,7 @@ We offer an advanced academy to teach you the ropes. From playing the market to 
 
 [b]Become a Knight![/b] 
 I must go now. The kingdom needs me.To meet me there,
-Simply join our [link=dsg.gg/camelot]discord[/link] and type the following command:
+Simply join our [url=dsc.gg/camelot]discord[/url] and type the following command:
 -ticket open applicant
 This will open a new channel where we’ll discuss your qualifications as a knight.
 [right][img]https://cdn.discordapp.com/attachments/759239957616394253/801694176005193728/Camelot_seal_black.png[/img]
